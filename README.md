@@ -46,6 +46,24 @@ ___
 
 [**_Enunciados de la practica 6_**](Practicas/.pdf/Práctica-6-TD.pdf)
 
+* [**ejercicio 01**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2001/ejercicio-01.png)
+* [**ejercicio 02**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2002/ejercicio-02.png)
+* [**ejercicio 03**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2003/ejercicio-03.png)
+* [**ejercicio 04**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2004/ejercicio-04.png)
+* [**ejercicio 05**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2005/ejercicio-05.png)
+* [**ejercicio 06**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2006/ejercicio-06.png)
+* [**ejercicio 07**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2007/ejercicio-07.png)
+* [**ejercicio 08**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2008/ejercicio-08.png)
+* [**ejercicio 09**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2009/ejercicio-09.png)
+* [**ejercicio 10**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2010/ejercicio-10.png)
+* [**ejercicio 11**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2011/ejercicio-11.png)
+* [**ejercicio 12**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2012/ejercicio-12.png)
+* [**ejercicio 13**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2013/ejercicio-13.png)
+* [**ejercicio 14**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2014/ejercicio-14.png)
+* [**ejercicio 15**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2015/ejercicio-15.png)
+* [**ejercicio 16**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2016/ejercicio-16.png)
+* [**ejercicio 17**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2017/ejercicio-17.png)
+
 ___
 
 ### Práctica-Adicional-DTE-y-RP
