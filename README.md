@@ -6,9 +6,15 @@ ___
 
 ### Algunos Links
 
+[**Blog de la Catedra**](https://blogs.ead.unlp.edu.ar/ingenieriasoft1/)
+
 [**Youtube - Clases de Teoría Grabadas**](https://www.youtube.com/playlist?list=PLlLjzHVmVyN9EIXvIVV1RWnxBJRgkx0Bs)
 
 [**Youtube - Clases de Consulta Grabadas**](https://www.youtube.com/playlist?list=PLlLjzHVmVyN_FQNCmvFyC2808SeMHvypU)
+
+[**Drive - Videos de Explicaciónes de Práctica**](https://drive.google.com/drive/folders/1TYkueOMIQhNqX6JiG5zjsfhm5VuxXVdR?usp=drive_link)
+
+[**Drive Definitivo - Todo el material necesario para aprobar INGE 1**](https://drive.google.com/drive/folders/15tVFNnx3fAWG036GDRwpiaH3BYrOZRBt?usp=drive_link)
 
 ___
 
@@ -80,6 +86,7 @@ ___
 
 [**_Enunciados de la práctica 5_**](Practicas/.pdf/Práctica-5-RP.pdf)
 
+* [**ejercicios teóricos**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/INGE1%20-%20Practica%205%20-%20Parte%201%20-%20%20RP.png)
 * [**ejercicio 01**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2001/ejercicio-01.png)
 * [**ejercicio 02**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2002/ejercicio-02.png)
 * [**ejercicio 03**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2003/ejercicio-03.png)
@@ -102,6 +109,7 @@ ___
 
 [**_Enunciados de la práctica 6_**](Practicas/.pdf/Práctica-6-TD.pdf)
 
+* [**ejercicios teóricos**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/INGE1%20-%20Practica%206%20-%20Parte%201%20-%20TD.png)
 * [**ejercicio 01**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2001/ejercicio-01.png)
 * [**ejercicio 02**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2002/ejercicio-02.png)
 * [**ejercicio 03**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2003/ejercicio-03.png)
