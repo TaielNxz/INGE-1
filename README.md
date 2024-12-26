@@ -22,17 +22,57 @@ ___
 
 [**_Enunciados de la práctica 2_**](Practicas/.pdf/Práctica-2-HU.pdf)
 
+* [**ejercicio 01**](Practicas/Práctica%202%20-%20Historias%20de%20Usuario/ejercicio%2001/ejercicio-01.png)
+* [**ejercicio 02**](Practicas/Práctica%202%20-%20Historias%20de%20Usuario/ejercicio%2002/ejercicio-02.png)
+* [**ejercicio 03**](Practicas/Práctica%202%20-%20Historias%20de%20Usuario/ejercicio%2003/ejercicio-03.png)
+* [**ejercicio 04**](Practicas/Práctica%202%20-%20Historias%20de%20Usuario/ejercicio%2004/ejercicio-04.png)
+* [**ejercicio 05**](Practicas/Práctica%202%20-%20Historias%20de%20Usuario/ejercicio%2005/ejercicio-05.png)
+* [**ejercicio 06**](Practicas/Práctica%202%20-%20Historias%20de%20Usuario/ejercicio%2006/ejercicio-06.png)
+* [**ejercicio 07**](Practicas/Práctica%202%20-%20Historias%20de%20Usuario/ejercicio%2007/ejercicio-07.png)
+* [**ejercicio 08**](Practicas/Práctica%202%20-%20Historias%20de%20Usuario/ejercicio%2008/ejercicio-08.png)
+* [**ejercicio 09**](Practicas/Práctica%202%20-%20Historias%20de%20Usuario/ejercicio%2009/ejercicio-09.png)
+* [**ejercicio 10**](Practicas/Práctica%202%20-%20Historias%20de%20Usuario/ejercicio%2010/ejercicio-10.png)
+* [**ejercicio 11**](Practicas/Práctica%202%20-%20Historias%20de%20Usuario/ejercicio%2011/ejercicio-11.png)
+* [**ejercicio 12**](Practicas/Práctica%202%20-%20Historias%20de%20Usuario/ejercicio%2012/ejercicio-12.png)
+* [**ejercicio 13**](Practicas/Práctica%202%20-%20Historias%20de%20Usuario/ejercicio%2013/ejercicio-13.png)
+* [**ejercicio 14**](Practicas/Práctica%202%20-%20Historias%20de%20Usuario/ejercicio%2014/ejercicio-14.png)
+
 ___
 
 ### Práctica 3 - Casos de Uso
 
 [**_Enunciados de la práctica 3_**](Practicas/.pdf/Práctica-3-CU.pdf)
 
+* [**ejercicio 01**](Practicas/Práctica%203%20-%20Casos%20de%20Uso/ejercicio%2001/ejercicio-01.png)
+* [**ejercicio 02**](Practicas/Práctica%203%20-%20Casos%20de%20Uso/ejercicio%2002/ejercicio-02.png)
+* [**ejercicio 03**](Practicas/Práctica%203%20-%20Casos%20de%20Uso/ejercicio%2003/ejercicio-03.png)
+* [**ejercicio 04**](Practicas/Práctica%203%20-%20Casos%20de%20Uso/ejercicio%2004/ejercicio-04.png)
+* [**ejercicio 05**](Practicas/Práctica%203%20-%20Casos%20de%20Uso/ejercicio%2005/ejercicio-05.png)
+* [**ejercicio 06**](Practicas/Práctica%203%20-%20Casos%20de%20Uso/ejercicio%2006/ejercicio-06.png)
+* [**ejercicio 07**](Practicas/Práctica%203%20-%20Casos%20de%20Uso/ejercicio%2007/ejercicio-07.png)
+* [**ejercicio 08**](Practicas/Práctica%203%20-%20Casos%20de%20Uso/ejercicio%2008/ejercicio-08.png)
+* [**ejercicio 09**](Practicas/Práctica%203%20-%20Casos%20de%20Uso/ejercicio%2009/ejercicio-09.png)
+* [**ejercicio 10**](Practicas/Práctica%203%20-%20Casos%20de%20Uso/ejercicio%2010/ejercicio-10.png)
+* [**ejercicio 11**](Practicas/Práctica%203%20-%20Casos%20de%20Uso/ejercicio%2011/ejercicio-11.png)
+
 ___
 
 ### Práctica 4 - Diagramas de Transición y Estados
 
 [**_Enunciados de la práctica 4_**](Practicas/.pdf/Práctica-4-DTE.pdf)
+
+* [**ejercicio 01**](Practicas/Práctica%204%20-%20Diagramas%20de%20Transición%20y%20Estados/ejercicio%2001/ejercicio-01.png)
+* [**ejercicio 02**](Practicas/Práctica%204%20-%20Diagramas%20de%20Transición%20y%20Estados/ejercicio%2002/ejercicio-02.png)
+* [**ejercicio 03**](Practicas/Práctica%204%20-%20Diagramas%20de%20Transición%20y%20Estados/ejercicio%2003/ejercicio-03.png)
+* [**ejercicio 04**](Practicas/Práctica%204%20-%20Diagramas%20de%20Transición%20y%20Estados/ejercicio%2004/ejercicio-04.png)
+* [**ejercicio 05**](Practicas/Práctica%204%20-%20Diagramas%20de%20Transición%20y%20Estados/ejercicio%2005/ejercicio-05.png)
+* [**ejercicio 06**](Practicas/Práctica%204%20-%20Diagramas%20de%20Transición%20y%20Estados/ejercicio%2006/ejercicio-06.png)
+* [**ejercicio 07**](Practicas/Práctica%204%20-%20Diagramas%20de%20Transición%20y%20Estados/ejercicio%2007/ejercicio-07.png)
+* [**ejercicio 08**](Practicas/Práctica%204%20-%20Diagramas%20de%20Transición%20y%20Estados/ejercicio%2008/ejercicio-08.png)
+* [**ejercicio 09**](Practicas/Práctica%204%20-%20Diagramas%20de%20Transición%20y%20Estados/ejercicio%2009/ejercicio-09.png)
+* [**ejercicio 10**](Practicas/Práctica%204%20-%20Diagramas%20de%20Transición%20y%20Estados/ejercicio%2010/ejercicio-10.png)
+* [**ejercicio 11**](Practicas/Práctica%204%20-%20Diagramas%20de%20Transición%20y%20Estados/ejercicio%2011/ejercicio-11.png)
+* [**ejercicio 12**](Practicas/Práctica%204%20-%20Diagramas%20de%20Transición%20y%20Estados/ejercicio%2012/ejercicio-12.png)
 
 ___
 
