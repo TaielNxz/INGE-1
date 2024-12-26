@@ -14,37 +14,53 @@ ___
 
 ### Practica 1 - Técnicas de elicitación de requerimientos
 
-[**_Enunciados de la practica 1_**](Practicas/.pdf/Práctica-1-TER.pdf)
+[**_Enunciados de la práctica 1_**](Practicas/.pdf/Práctica-1-TER.pdf)
 
 ___
 
 ### Práctica 2 - Historias de Usuario
 
-[**_Enunciados de la practica 2_**](Practicas/.pdf/Práctica-2-HU.pdf)
+[**_Enunciados de la práctica 2_**](Practicas/.pdf/Práctica-2-HU.pdf)
 
 ___
 
 ### Práctica 3 - Casos de Uso
 
-[**_Enunciados de la practica 3_**](Practicas/.pdf/Práctica-3-CU.pdf)
+[**_Enunciados de la práctica 3_**](Practicas/.pdf/Práctica-3-CU.pdf)
 
 ___
 
 ### Práctica 4 - Diagramas de Transición y Estados
 
-[**_Enunciados de la practica 4_**](Practicas/.pdf/Práctica-4-DTE.pdf)
+[**_Enunciados de la práctica 4_**](Practicas/.pdf/Práctica-4-DTE.pdf)
 
 ___
 
 ### Práctica 5 - Redes de Petri
 
-[**_Enunciados de la practica 5_**](Practicas/.pdf/Práctica-5-RP.pdf)
+[**_Enunciados de la práctica 5_**](Practicas/.pdf/Práctica-5-RP.pdf)
 
+* [**ejercicio 01**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2001/ejercicio-01.png)
+* [**ejercicio 02**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2002/ejercicio-02.png)
+* [**ejercicio 03**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2003/ejercicio-03.png)
+* [**ejercicio 04**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2004/ejercicio-04.png)
+* [**ejercicio 05**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2005/ejercicio-05.png)
+* [**ejercicio 06**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2006/ejercicio-06.png)
+* [**ejercicio 07**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2007/ejercicio-07.png)
+* [**ejercicio 08**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2008/ejercicio-08.png)
+* [**ejercicio 09**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2009/ejercicio-09.png)
+* [**ejercicio 10**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2010/ejercicio-10.png)
+* [**ejercicio 11**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2011/ejercicio-11.png)
+* [**ejercicio 12**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2012/ejercicio-12.png)
+* [**ejercicio 13**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2013/ejercicio-13.png)
+* [**ejercicio 14**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2014/ejercicio-14.png)
+* [**ejercicio 15**](Practicas/Práctica%205%20-%20Redes%20de%20Petri/ejercicio%2015/ejercicio-15.png)
+  
 ___
 
 ### Práctica 6 - Tablas de Decisión
 
-[**_Enunciados de la practica 6_**](Practicas/.pdf/Práctica-6-TD.pdf)
+[**_Enunciados de la práctica 6_**](Practicas/.pdf/Práctica-6-TD.pdf)
 
 * [**ejercicio 01**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2001/ejercicio-01.png)
 * [**ejercicio 02**](Practicas/Práctica%206%20-%20Tablas%20de%20Decisión/ejercicio%2002/ejercicio-02.png)
@@ -68,7 +84,7 @@ ___
 
 ### Práctica-Adicional-DTE-y-RP
 
-[**_Enunciados de la practica adicional_**](Practicas/.pdf/Práctica-Adicional-DTE-y-RP.pdf)
+[**_Enunciados de la práctica adicional_**](Practicas/.pdf/Práctica-Adicional-DTE-y-RP.pdf)
 
 * [**DTE-ejercicio 01**](Practicas/Práctica%20adicional%20-%20DTE%20y%20RP/DTE%20-%20ejercicio%201/DTE-ejercicio-01.png)
 * [**DTE-ejercicio 02**](Practicas/Práctica%20adicional%20-%20DTE%20y%20RP/DTE%20-%20ejercicio%202/DTE-ejercicio-02.png)
