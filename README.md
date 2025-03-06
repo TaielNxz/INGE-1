@@ -20,7 +20,8 @@ ___
 
 ### Practica 1 - Técnicas de elicitación de requerimientos
 
-[**_Enunciados de la práctica 1_**](Practicas/.pdf/Práctica-1-TER.pdf)
+
+[**_Enunciados de la práctica 1_**](Practicas/.pdf/Practica-1-TER.pdf)
 
 ___
 
